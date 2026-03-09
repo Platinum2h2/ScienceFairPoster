@@ -1,0 +1,8 @@
+{
+  "name": "RescueVision Research",
+  "description": "A Novel Closed-Loop Health Guidance System. Life Science project exploring AI-guided first aid and procedural fidelity scanning.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
